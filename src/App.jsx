@@ -14,8 +14,8 @@ function App() {
               path={route.path} 
               element={<route.component />} 
             />
-          ))}
-          <Route index element={<routes.find(r => r.id === 'dashboard').component />} />
+))}
+          <Route index element={React.createElement(routes.find(r => r.id === 'dashboard').component)} />
         </Route>
       </Routes>
       <ToastContainer 
