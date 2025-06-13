@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Mathematics",
+    "teacher": "Mrs. Anderson",
+    "currentGrade": "B+",
+    "gradePercentage": 87,
+    "trend": "up"
+  },
+  {
+    "id": "2", 
+    "name": "English Literature",
+    "teacher": "Mr. Thompson",
+    "currentGrade": "A-",
+    "gradePercentage": 92,
+    "trend": "stable"
+  },
+  {
+    "id": "3",
+    "name": "Biology",
+    "teacher": "Dr. Wilson",
+    "currentGrade": "B",
+    "gradePercentage": 84,
+    "trend": "down"
+  },
+  {
+    "id": "4",
+    "name": "World History",
+    "teacher": "Ms. Garcia",
+    "currentGrade": "A",
+    "gradePercentage": 95,
+    "trend": "up"
+  },
+  {
+    "id": "5",
+    "name": "Chemistry",
+    "teacher": "Mr. Davis",
+    "currentGrade": "C+", 
+    "gradePercentage": 78,
+    "trend": "down"
+  }
+]

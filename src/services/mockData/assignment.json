@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "subjectId": "1",
+    "title": "Quadratic Equations Quiz",
+    "dueDate": "2024-01-15",
+    "status": "submitted",
+    "score": 87,
+    "maxScore": 100
+  },
+  {
+    "id": "2",
+    "subjectId": "2", 
+    "title": "Shakespeare Essay",
+    "dueDate": "2024-01-18",
+    "status": "pending",
+    "score": null,
+    "maxScore": 100
+  },
+  {
+    "id": "3",
+    "subjectId": "3",
+    "title": "Cell Structure Lab Report",
+    "dueDate": "2024-01-12",
+    "status": "graded",
+    "score": 92,
+    "maxScore": 100
+  },
+  {
+    "id": "4",
+    "subjectId": "1",
+    "title": "Geometry Homework",
+    "dueDate": "2024-01-20",
+    "status": "overdue",
+    "score": null,
+    "maxScore": 50
+  },
+  {
+    "id": "5",
+    "subjectId": "4",
+    "title": "WWII Research Project",
+    "dueDate": "2024-01-25",
+    "status": "in-progress",
+    "score": null,
+    "maxScore": 150
+  },
+  {
+    "id": "6",
+    "subjectId": "5",
+    "title": "Chemical Reactions Test",
+    "dueDate": "2024-01-22",
+    "status": "upcoming",
+    "score": null,
+    "maxScore": 100
+  }
+]

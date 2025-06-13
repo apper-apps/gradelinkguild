@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "type": "grade",
+    "title": "New Grade Posted",
+    "message": "Emma received an A (92%) on her Cell Structure Lab Report in Biology",
+    "timestamp": "2024-01-12T14:30:00Z",
+    "priority": "medium",
+    "read": false
+  },
+  {
+    "id": "2",
+    "type": "assignment",
+    "title": "Assignment Overdue",
+    "message": "Geometry Homework is now overdue in Mathematics class",
+    "timestamp": "2024-01-20T09:00:00Z",
+    "priority": "high",
+    "read": false
+  },
+  {
+    "id": "3",
+    "type": "attendance",
+    "title": "Attendance Alert",
+    "message": "Emma was marked absent for 2nd period Chemistry class",
+    "timestamp": "2024-01-11T10:15:00Z",  
+    "priority": "high",
+    "read": true
+  },
+  {
+    "id": "4",
+    "type": "grade",
+    "title": "Grade Updated",
+    "message": "Mathematics grade improved to B+ (87%) after recent quiz",
+    "timestamp": "2024-01-10T16:45:00Z",
+    "priority": "low",
+    "read": true
+  },
+  {
+    "id": "5",
+    "type": "assignment",
+    "title": "Assignment Due Soon",
+    "message": "Shakespeare Essay is due tomorrow in English Literature",
+    "timestamp": "2024-01-17T08:00:00Z",
+    "priority": "medium",
+    "read": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Emma Johnson",
+    "grade": "9th Grade",
+    "school": "Lincoln High School",
+    "gpa": 3.7,
+    "attendanceRate": 94
+  },
+  {
+    "id": "2",
+    "name": "Michael Chen",
+    "grade": "11th Grade", 
+    "school": "Lincoln High School",
+    "gpa": 3.9,
+    "attendanceRate": 98
+  },
+  {
+    "id": "3",
+    "name": "Sofia Rodriguez",
+    "grade": "10th Grade",
+    "school": "Lincoln High School", 
+    "gpa": 3.5,
+    "attendanceRate": 91
+  }
+]
